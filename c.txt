@@ -1,1 +1,1 @@
-c some errors got fixed
+c Error fixed
